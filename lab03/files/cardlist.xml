@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container xmlns="http://msiter.ru"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://msiter.ru validation.xsd">
+    
+    <CardList>
+        <Card>
+            <Number>100458</Name>
+            <Balance>58634</Balance>
+        </Card>
+        <Card>
+            <Number>100352</Number>
+            <Balance>58634</Balance>
+        </Card>
+        <Card>
+            <Number>100263</Number>
+            <Balance>58634</Balance>
+        </Card>
+        <Card>
+            <Number>100522</Number>
+            <Balance>58634</Balance>
+        </Card>
+    </CardList>
+</Container>
